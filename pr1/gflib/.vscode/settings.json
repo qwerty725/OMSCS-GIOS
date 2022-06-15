@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "gfserver-student.h": "c",
+        "gfserver.h": "c",
+        "gf-student.h": "c"
+    }
+}
